@@ -1,0 +1,13 @@
+🔹 1. Criação de Arrays
+
+Objetivo: entender os tipos básicos de arrays e como criá-los.
+
+Crie um array numpy com os números de 1 a 10 e exiba-o.
+
+Crie um array de zeros com 5 elementos e outro de uns com 5 elementos.
+
+Crie um array de 10 elementos com o valor 7 em todos eles.
+
+Gere um array com números de 0 a 20 pulando de 2 em 2.
+
+Crie um array com 10 números aleatórios entre 0 e 1.
