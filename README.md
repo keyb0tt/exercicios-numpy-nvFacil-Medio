@@ -1,0 +1,1 @@
+# exercicios-numpy-nvFacil-Medio
