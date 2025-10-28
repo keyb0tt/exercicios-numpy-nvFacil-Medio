@@ -1,0 +1,19 @@
+🔹 2. Formas e Tipos de Dados
+
+Objetivo: trabalhar com shape, dtype e reshape.
+
+Crie um array 1D com 12 elementos e transforme-o em uma matriz 3x4.
+
+Crie uma matriz 3x3 com valores inteiros aleatórios e exiba seu tipo (dtype).
+
+Gere um array com 6 valores e converta-o para o tipo float.
+
+Crie uma matriz identidade 4x4.
+
+Gere uma matriz 2x5 e mostre:
+
+número de dimensões
+
+formato (shape)
+
+quantidade total de elementos (size).
