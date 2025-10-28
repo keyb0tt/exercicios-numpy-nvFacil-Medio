@@ -1,0 +1,11 @@
+🔹 5. Operações Lógicas e Condicionais
+
+Objetivo: aplicar máscaras e filtros.
+
+Gere um array de 15 números aleatórios entre 0 e 50.
+
+Mostre apenas os números maiores que 25.
+
+Substitua os valores menores que 10 por zero.
+
+Conte quantos números estão entre 20 e 40.
