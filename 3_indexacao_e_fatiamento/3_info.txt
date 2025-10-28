@@ -1,0 +1,17 @@
+🔹 3. Indexação e Fatiamento
+
+Objetivo: acessar e modificar elementos de arrays.
+
+Crie um array de 10 elementos e substitua os valores nas posições 3 a 6 por zero.
+
+Gere uma matriz 4x4 e mostre apenas:
+
+a segunda linha
+
+a última coluna
+
+a diagonal principal.
+
+Crie um array de 20 elementos e mostre apenas os números pares usando slicing.
+
+Gere uma matriz 3x3 com números aleatórios e substitua todos os valores menores que 0.5 por 0.
