@@ -1,0 +1,27 @@
+🔹 4. Operações Matemáticas
+
+Objetivo: realizar cálculos vetorizados e comparações.
+
+Crie dois arrays de tamanho 5 e realize:
+
+soma
+
+subtração
+
+multiplicação elemento a elemento
+
+divisão elemento a elemento.
+
+Crie um array de 10 números e calcule:
+
+média
+
+soma
+
+valor máximo e mínimo
+
+desvio padrão.
+
+Crie uma matriz 3x3 e calcule a soma das linhas e das colunas separadamente.
+
+Gere um array de 10 números inteiros aleatórios entre 1 e 100 e mostre apenas os múltiplos de 5.
