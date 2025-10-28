@@ -19,7 +19,7 @@ print(f'numeros_um={numeros_um}')
 print(f'numeros_dois={numeros_dois}\n')
 
 print(f'numeros_mult={numeros_mult}')
-print(f'numeros_div={numeros_div}')
+print(f'numeros_div={numeros_div.round(2)}')
 print(f'numeros_soma={numeros_soma}')
 print(f'numeros_sub={numeros_sub}\n')
 
